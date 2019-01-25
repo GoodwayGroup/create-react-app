@@ -1,11 +1,11 @@
 {
-  "name": "react-dev-utils",
+  "name": "@goodwaygroup/react-dev-utils",
   "version": "7.0.1",
   "description": "Webpack utilities used by Create React App",
-  "repository": "facebook/create-react-app",
+  "repository": "goodwaygroup/create-react-app",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/goodwaygroup/create-react-app/issues"
   },
   "engines": {
     "node": ">=6"
